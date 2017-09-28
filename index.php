@@ -22,7 +22,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
       <hr />
 
-      <?php include('get-cpu-load.php'); echo "<br /><p>FORUM: <b>"; ?>
+      <?php include('get-cpu-load.php'); echo "<br /><p>Logicalis at Red Hat Forum 2017: <b>"; ?>
 			</p>
       <p>
       </p>
