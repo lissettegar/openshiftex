@@ -36,5 +36,5 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
     <script src="js/scripts.js"></script>
  
   </body>
-<img src="buildings-front-resize-closer-sydney-cheated2-1.png" alt="Logicalis - business and technology working as one" style="max-width:400%;" width=200"%">
+<img src="buildings-front-resize-closer-sydney-cheated2-1.png" alt="Logicalis - business and technology working as one" style="max-width:1000%;" width=1000"%">
 </html>
