@@ -4,7 +4,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 ?><!DOCTYPE html>
 <html>
   <head>
-    <title>Web Test Load CPU Logicalis Demo</title>
+    <title>Web Test Load</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
   </head>
@@ -34,6 +34,8 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/scripts.js"></script>
+ 
+  echo "<br /><p>Current CPU Load: <b>";
 
   </body>
 </html>
