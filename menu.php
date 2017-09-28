@@ -11,7 +11,7 @@
       <table> 
         <tr>
           <td width=100px>
-           <a href="load.php">Load Test</a>
+           <a href="load.php">Load CPU Test</a>
           </td>
           <td width=100px>
             <a href="load2.php">Stop Test</a>
