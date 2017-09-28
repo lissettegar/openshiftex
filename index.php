@@ -22,7 +22,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
       <hr />
 
-      <?php include('get-cpu-load.php'); echo "<br /><p>Logicalis at Red Hat Forum 2017 <b>"; ?>
+      <?php include('get-cpu-load.php'); ?>
 			</p>
       <p>
       </p>
@@ -36,5 +36,5 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
     <script src="js/scripts.js"></script>
  
   </body>
-<img src="buildings-front-resize-closer-sydney-cheated2-1.png" alt="Logicalis - business and technology working as one" style="max-width:1000%;" width=1000"%">
+<img src="buildings-front-resize-closer-sydney-cheated2-1.png" alt="Logicalis - business and technology working as one" style="max-width:2000%;" width=1500"%">
 </html>
