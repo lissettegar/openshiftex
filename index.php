@@ -36,6 +36,6 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
     <script src="js/scripts.js"></script>
  
   echo "<br /><p>Current CPU Load: <b>";
-
+    echo "%</b></p>";
   </body>
 </html>
