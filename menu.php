@@ -1,5 +1,5 @@
 <nav class="navbar navbar-default" role="navigation">
-<img src="logicalis-logo.svg" alt="Logicalis - business and technology working as one" style="max-width: 200%;" width="125%">
+<img src="logicalis-logo.svg" alt="Logicalis - business and technology working as one" style="max-width: 20%;" width="15%">
 
 
 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
