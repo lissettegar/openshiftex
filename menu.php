@@ -22,6 +22,5 @@
     </li>
   </ul>
 </div>
-<img src="buildings-front-resize-closer-sydney-cheated2-1.png" alt="Logicalis - business and technology working as one" style="max-width:200%;" width=100"%">
 
 </nav>
