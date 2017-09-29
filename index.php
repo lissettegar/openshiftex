@@ -34,8 +34,8 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/scripts.js"></script>
-    <div style='position:absolute;z-index:0;left:0;top:0;with:100%;height;100%'>
-      <img src="buildings-front-resize-closer-sydney-cheated2-1.png" style='width=100%;height:100%' alt='[]' /> 
+    <div style='position:absolute;z-index:0;left:0;top:20;with:200%;height;200%'>
+      <img src="buildings-front-resize-closer-sydney-cheated2-1.png" style='width=200%;height:200%' alt='[]' /> 
      </div>
   </body>
 </html>
