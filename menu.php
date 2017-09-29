@@ -12,13 +12,13 @@
       <table> 
         <tr>
           <td width=100px>
-           <a href="load.php">Load CPU </a>
+           <a href="load.php">Load CPU   </a>
           </td>
           <td width=100px>
-            <a href="load2.php">Stop Test</a>
+            <a href="load2.php">Stop Test   </a>
           </td>
           <td width=100px>
-            <a href="edit.php">Edit File</a>
+            <a href="edit.php">Edit File    </a>
           </td>
         </tr>
       </table>
