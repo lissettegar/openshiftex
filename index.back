@@ -27,9 +27,6 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
       <p>
       </p>
     </div>
-	<div id="lauratron" style="overflow: auto;">
-        <img  style="max-width: 100%; height: auto;" src="buildings-front-resize-closer-sydney-cheated2-1.png" alt='[]' /> 
-        </div>
     </div>
     </div>
     </div>
