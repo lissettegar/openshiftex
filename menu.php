@@ -20,8 +20,8 @@
           <td width=100px>
             <a href="edit.php">Edit File    </a>
           </td>
-          <td width=200px>
-            <p size="16" align="right">  RED HAT FORUM 2017   </p>
+          <td width=650px>
+            <p size="16" align="right">RED HAT FORUM 2017</p>
           </td>
 
         </tr>
