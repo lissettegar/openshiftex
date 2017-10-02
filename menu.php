@@ -1,6 +1,6 @@
 <nav class="navbar navbar-default" role="navigation">
 <div class="navbar-header">
-  <a class="navbar-brand" href="/"><img width="150" src="Logicalis_logo.png" /></a>
+  <a class="navbar-brand" href="/"><img width="100" src="Logicalis_logo.png" /></a>
 
 </div>
 
