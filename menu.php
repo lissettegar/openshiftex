@@ -22,7 +22,7 @@
           <td width=100px>
             <a href="edit.php">Edit File    </a>
           </td>
-          <td width=300px>
+          <td width=400px>
              <p align="right"> <font size="4" color="black" > RED HAT FORUM 2017! </font></p>
           </td>
         </tr>
