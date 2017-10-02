@@ -1,6 +1,8 @@
 <nav class="navbar navbar-default" role="navigation">
 <div class="navbar-header">
   <a class="navbar-brand" href="/"><img width="150" src="Logicalis_logo.png" /></a>
+  <p align="right"> <font size="4" color="black" > RED HAT FORUM 2017! </font></p>
+
 </div>
 
 
@@ -11,6 +13,7 @@
       <br>
       <table> 
         <tr>
+          <td width=200px></td>
           <td width=100px>
            <a href="load.php">Load CPU   </a>
           </td>
@@ -19,9 +22,6 @@
           </td>
           <td width=100px>
             <a href="edit.php">Edit File    </a>
-          </td>
-          <td width=650px>
-            <p align="right"> <font size="4" color="black" > RED HAT FORUM 2017! </font></p>
           </td>
 
         </tr>
