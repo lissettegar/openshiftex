@@ -5,6 +5,6 @@
   echo "<meta http-equiv=\"refresh\" content=\"5,URL=/load2.php\" />";
 
 
-    exec('kill -9 $(pidof dd)');
+    exec('pkill dd');
     echo "Stopping CPU Load! (auto refresh in 5 seconds)";
 ?>
