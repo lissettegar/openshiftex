@@ -20,7 +20,7 @@
             <a href="load2.php">Stop Test   </a>
           </td>
           <td width=100px>
-            <a href="edit.php">Edit File    </a>
+            <a href="edit.php">Insert Data    </a>
           </td>
           <td width=400px>
              <p align="right"> <font size="4" color="black" > RED HAT FORUM 2017  </font></p>
