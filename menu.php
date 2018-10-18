@@ -23,7 +23,7 @@
             <a href="edit.php">Insert Data    </a>
           </td>
           <td width=400px>
-             <p align="right"> <font size="4" color="black"> Logicalis-2018  </font></p>
+             <p align="right"> <font size="4" color="black"> Logicalis 2018  </font></p>
           </td>
         </tr>
       </table>
