@@ -21,5 +21,5 @@ The "build.configs" directory has:
 mv old css
 git add --all
 git commit -m "blabla..."
-git pushFoobar
+git push
 ```
